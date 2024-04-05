@@ -11,6 +11,8 @@ public class demo {
 		
 		
 		System.out.print("master thired commit");
+		
+		System.out.print("another second commit");
 
 	}
 }
