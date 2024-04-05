@@ -9,7 +9,8 @@ public class demo {
 		
 		System.out.print("another first commit");
 		
-		System.out.print("another second commit");
 		
+		System.out.print("master thired commit");
+
 	}
 }
