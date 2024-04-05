@@ -8,5 +8,8 @@ public class demo {
 		System.out.print("master secondd commit");
 		
 		System.out.print("another first commit");
+		
+		System.out.print("another second commit");
+		
 	}
 }
